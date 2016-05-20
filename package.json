@@ -1,0 +1,35 @@
+{
+  "name": "funkcss-flex-grid",
+  "version": "0.1.0",
+  "description": "A flex-basis based grid to use with funkcss",
+  "main": "dist/funkcss-flex-grid.min.css",
+  "author": "Filipe Linhares <lip.linhares@gmail.com> (http://filipelinhares.com)",
+  "homepage": "https://github.com/filipelinhares/funkcss-flex-grid#readme",
+  "repository": "filipelinhares/funkcss-flex-grid",
+  "bugs": "https://github.com/filipelinhares/funkcss-flex-grid/issues",
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "functional",
+    "components",
+    "funkcss-component"
+  ],
+  "scripts": {
+    "test": "stylelint lib/*.css"
+  },
+  "devDependencies": {
+    "css-mqpacker": "^5.0.1",
+    "cssguard": "^1.0.1",
+    "cssnano": "^3.5.2",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "postcss-cssnext": "^2.5.2",
+    "postcss-import": "^8.1.2",
+    "postcss-nested": "^1.0.0",
+    "postcss-reporter": "^1.3.3",
+    "postcss-url": "^5.1.2",
+    "stylelint": "^6.3.3"
+  }
+}
