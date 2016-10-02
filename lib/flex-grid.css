@@ -1,15 +1,16 @@
-/*
+/*!
+ * funkcss flex grid • v0.1.0
+ * MIT License
+ * github.com/filipelinhares/funkcss-flex-grid
+ */
 
-  GRID
-
-*/
 
 /* # ========== Container */
 
 .container {
-  flex-basis: 90%;
-  margin-left: auto;
+  width: 95%;
   margin-right: auto;
+  margin-left: auto;
 }
 
 @media (--breakpoint-sm) {
@@ -125,5 +126,5 @@
 @custom-media --breakpoint-lg (min-width: 75em);
 
 :root {
-  --container-width: 60em;
+  --container-width: 75em;
 }
