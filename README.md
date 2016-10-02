@@ -6,14 +6,13 @@ This package contain flex-basis sizes and a container helper which you can use w
 
 ## Development
 ```
-npm install
-gulp watch
+$ git clone https://github.com/filipelinhares/funkcss-flex-grid.git
+$ cd funkcss-flex-grid
+$ npm run setup
 ```
-**Other gulp comands**
 
-- `gulp postcss` - compile lib to dist
-- `gulp min` - minify dist
-- `gulp` - both together
+_More commands can be found in the [contributing guide](https://github.com/filipelinhares/funkcss/blob/master/CONTRIBUTING.md)_.
+
 
 ### Test
 ```
