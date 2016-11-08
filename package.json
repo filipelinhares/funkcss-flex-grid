@@ -1,6 +1,6 @@
 {
   "name": "funkcss-flex-grid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A flex-basis based grid to use with funkcss",
   "main": "dist/funkcss-flex-grid.min.css",
   "author": "Filipe Linhares <lip.linhares@gmail.com> (http://filipelinhares.com)",
