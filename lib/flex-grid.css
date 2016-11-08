@@ -1,5 +1,5 @@
 /*!
- * funkcss flex grid • v0.1.0
+ * funkcss flex grid • v0.1.1
  * MIT License
  * github.com/filipelinhares/funkcss-flex-grid
  */
@@ -125,5 +125,5 @@
 @custom-media --breakpoint-lg (min-width: 75em);
 
 :root {
-  --container-width: 75em;
+  --container-width: 60em;
 }
